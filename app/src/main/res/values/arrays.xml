@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_opts_arr">
+        <item>Sender Ascending</item>
+        <item>Sender Descending</item>
+        <item>Date Ascending</item>
+        <item>Date Descending</item>
+    </string-array>
+    <string-array name="val_arr">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+</resources>
